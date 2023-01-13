@@ -13,4 +13,4 @@ var student = new Student
 StudentDto castedStudent = student;
 
 Console.WriteLine(castedStudent);
-Console.Read();
+Console.ReadKey();
